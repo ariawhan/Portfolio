@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Poppins:wght@200&display=swap");
+
+body {
+  background-color: #020202;
+  font-family: "Poppins";
+}
+
+/* header */
+
+header {
+  padding-bottom: 80px;
+}
+
+/* Navbar */
+nav {
+  margin-top: 10px;
+  padding-bottom: 100px !important;
+}
+
+.navbar-brand {
+  color: #ffff !important;
+}
+
+.nav-link {
+  color: #ffff !important;
+}
+
+.nav-item {
+  margin-left: 8%;
+}
+.navbar-toggler {
+  color: #ffff !important;
+}
+
+.nav-item a:hover {
+  border-bottom: 1px solid #ffb800;
+}
+
+.nav-item a.active {
+  border-bottom: 1px solid #ffb800;
+}
+
+.name h6 {
+  color: #ffb800;
+  font-family: "Permanent Marker", cursive;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 52px;
+  text-align: center;
+}
+
+.btn-cv {
+  margin-top: 35px;
+  border: 1px solid #ffb800;
+  border-radius: 8px;
+  background-color: black;
+  color: #ffff;
+  padding: 0.5em 2em 0.5em;
+}
+
+.name h1 {
+  color: #ffffff;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 36px;
+  text-align: center;
+}
+/* main */
+main {
+  background-color: #252525;
+  padding-bottom: 200px;
+}
