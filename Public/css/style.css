@@ -1,11 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Poppins:wght@200&display=swap");
 
-body {
-  background-color: #020202;
-  font-family: "Poppins";
-}
-
 /* header */
 
 header {
@@ -85,47 +80,6 @@ nav {
   text-align: left;
 }
 
-ul {
-  align-items: left;
-}
-
-li {
-  color: #ffff;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  text-align: left;
-  padding-top: 10px;
-}
-h2 {
-  color: #ffff;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 24px;
-  line-height: 36px;
-  margin-bottom: 50px;
-}
-
-h5 {
-  color: #ffb800;
-  font-family: "Permanent Marker";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 36px;
-  line-height: 52px;
-  text-align: left;
-}
-
-p {
-  color: #ffff;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  text-align: left;
-}
-
 .form-contact input {
   background: rgba(255, 255, 255, 0.25);
   border-radius: 10px;
@@ -161,11 +115,4 @@ p {
   color: black;
   padding: 0.5em 2em 0.5em;
   text-align: right;
-}
-
-footer {
-  padding-top: 20px;
-  margin-top: 30px;
-  background-color: #ffb800;
-  padding-bottom: 30px;
 }
